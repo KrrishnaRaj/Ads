@@ -1,4 +1,9 @@
 [
-  {"id": 1, "title": "Title 1"},
-  {"id": 2, "title": "Title 2"}
+  {
+    "banner": "https://m.media-amazon.com/images/G/31/img24/Fresh/Associates/Feb25/Beauty__Grooming.jpg",
+    "products": [
+      "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL240_.jpg",
+      "url": "https://amzn.to/430jhbO"
+    ]
+  }
 ]
