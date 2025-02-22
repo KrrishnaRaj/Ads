@@ -1,71 +1,23 @@
 [
-  {
-    "banner": "https://m.media-amazon.com/images/G/31/img24/Fresh/Associates/Feb25/Beauty__Grooming.jpg",
-    "products": [
-      {
-        "icon": "https://github.com/KrrishnaRaj/Ads/blob/main/1.png?raw=true",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      },
-      {
-        "icon": "https://images-eu.ssl-images-amazon.com/images/I/513RgCoK+mL.AC_SL2401_.jpg",
-        "url": "https://amzn.to/430jhbO"
-      }
-    ]
-  }
+    {
+        "banner": "https://m.media-amazon.com/images/G/31/img24/Fresh/Associates/Feb25/Beauty__Grooming.jpg",
+        "products": [
+            {
+                "icon": "https://github.com/KrrishnaRaj/Ads/blob/main/1.png?raw=true",
+                "url": "https://amzn.to/4h1njnO"
+            },
+            {
+                "icon": "https://github.com/KrrishnaRaj/Ads/blob/main/2.png?raw=true",
+                "url": "https://amzn.to/4beylEJ"
+            },
+            {
+                "icon": "https://github.com/KrrishnaRaj/Ads/blob/main/3.png?raw=true",
+                "url": "https://amzn.to/4itjDML"
+            },
+            {
+                "icon": "https://github.com/KrrishnaRaj/Ads/blob/main/4.png?raw=true",
+                "url": "https://amzn.to/3D3VhKg"
+            }
+        ]
+    }
 ]
